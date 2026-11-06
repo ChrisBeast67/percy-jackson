@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lore Quiz — Percy Jackson Fan Site</title>
+<meta name="description" content="15 questions about Percy Jackson, the Olympians, the Seven and the monsters. Can you get a demigod rank?">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css?v=1">
+</head>
+<body>
+
+<nav>
+  <div class="nav-inner">
+    <div class="logo">⚡ <span>Percy Jackson</span></div>
+    <div class="nav-links">
+      <a href="index.html">Home</a>
+      <a href="books.html">Books</a>
+      <a href="camp.html">Camp Half-Blood</a>
+      <a href="characters.html">Characters</a>
+      <a href="gods.html">Gods</a>
+      <a href="quiz.html">Quiz</a>
+      <a href="parent-quiz.html">Parent Quiz</a>
+    </div>
+  </div>
+</nav>
+
+<header class="hero" style="min-height:46vh">
+  <div class="hero-bg"></div>
+  <div class="wrap">
+    <div class="tag">15 questions</div>
+    <h1>Lore Quiz</h1>
+    <p class="sub">Prove you know your way around Camp Half-Blood.</p>
+  </div>
+</header>
+
+<section>
+  <div class="wrap quiz-wrap">
+    <div class="q-progress"><div class="q-bar" id="qBar"></div></div>
+    <div class="q-count" id="qCount">Question 1 of 15</div>
+    <div id="quizArea">
+      <div class="q-text" id="qText"></div>
+      <div class="q-opts" id="qOpts"></div>
+      <div class="q-feedback" id="qFeedback" style="display:none"></div>
+      <div id="nextWrap" style="display:none">
+        <button class="q-next" id="qNext">Next question →</button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <p><b>Percy Jackson</b> fan site — made with ⚡ by Percy ⚡ for The Beast</p>
+  <p style="margin-top:8px;font-size:.82rem">Percy Jackson is written by Rick Riordan. This is an unofficial fan site.</p>
+</footer>
+
+<script src="js/quiz.js"></script>
+</body>
+</html>
