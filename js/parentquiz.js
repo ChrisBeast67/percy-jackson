@@ -88,13 +88,13 @@ var PARENTS = {
     desc: "You make any room better just by being in it. You are fun, chaotic and warm, and you do not take yourself too seriously. Life is short and you intend to enjoy every single quest.",
     powers: ["Making wine and transforming things", "Inspiring madness and joy", "The Camp Half-Blood party cabin"]
   },
-  aeolus: {
-    name: "Aeolus",
-    emoji: "💨",
-    cabin: "Cabin 2b — Aeolus",
-    title: "Child of the Wind",
-    desc: "You are restless, quick and hard to pin down. You like change, you like freedom, and you get grumpy when somebody tries to cage you in. You are also the one who keeps the whole camp breathing easy.",
-    powers: ["Controlling wind and storms", "Traveling on the wind", "Weather mastery"]
+  iris: {
+    name: "Iris",
+    emoji: "🌈",
+    cabin: "Cabin 14 — Iris",
+    title: "Child of the Rainbow",
+    desc: "You are quick, bright and impossible to pin down. You deliver messages before anyone asks for them, you lighten the mood of even the grumpiest cabin, and you are usually already on your way somewhere else.",
+    powers: ["Making rainbows", "Carrying messages for the gods", "Walking between colours"]
   }
 };
 
@@ -131,7 +131,7 @@ var QUESTIONS = [
     q: "You get the last seat in the mess tent. Who is sitting next to you?",
     o: [
       { t: "A loud, generous friend with terrible jokes", g: "dionysus" },
-      { t: "Someone who never stops moving", g: "aeolus" },
+      { t: "Someone who appears with a message for someone else", g: "iris" },
       { t: "A stranger who tells you a deep secret", g: "hermes" },
       { t: "A friend who makes you feel safe without saying much", g: "hades" }
     ]
@@ -178,7 +178,7 @@ var QUESTIONS = [
       { t: "Follow it exactly and wait for the loophole", g: "hermes" },
       { t: "Challenge it, loudly", g: "ares" },
       { t: "Suggest a better version of it", g: "athena" },
-      { t: "Smile and ignore it", g: "aeolus" }
+      { t: "Smile and let someone else deal with it", g: "iris" }
     ]
   },
   {
