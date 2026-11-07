@@ -40,13 +40,13 @@ var QUESTIONS = [
     q: "What is the name of the camp's wise centaur mentor?",
     o: ["Fury", "Chiron", "Hippocrates", "Chiron's brother Felix"],
     a: 1,
-    e: "Chiron. He has been teaching demigods for a thousand years — including Achilles. He is also Kronos's son, which is awkward for everybody."
+    e: "Chiron. He has been teaching demigods for over three thousand years — including Achilles. He is also Kronos's son, which is awkward for everybody."
   },
   {
-    q: "Which of these is a gift from a child of Poseidon?",
+    q: "Which of these is a gift that a child of Poseidon received?",
     o: ["Talaria (winged sandals)", "Aegis (a shield)", "Diablo (a flaming sword)", "Kopis (curved swords)"],
     a: 0,
-    e: "Talaria, the winged sandals, let you fly. Riptide is also Poseidon's — but it is handed down, not given."
+    e: "Talaria, the winged sandals, let you fly — Hermes gave them to Percy. Riptide was Poseidon's own gift to his son Percy."
   },
   {
     q: "Who is the god of medicine and healing, and the father of Will Solace?",

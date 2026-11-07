@@ -3,7 +3,7 @@ var PARENTS = {
   poseidon: {
     name: "Poseidon",
     emoji: "🌊",
-    cabin: "Cabin 13 — Poseidon",
+    cabin: "Cabin 3 — Poseidon",
     title: "Son of the Sea",
     desc: "You are the calm in the storm, the one who stays level when everybody else panics. You are loyal to a fault, protective of your people, and slightly suspicious of dry land. You feel things deeply and you hide it well.",
     powers: ["Controlling water, horses and ships", "Breathing underwater", "Summoning small hurricanes"]
@@ -27,7 +27,7 @@ var PARENTS = {
   apollo: {
     name: "Apollo",
     emoji: "☀️",
-    cabin: "Cabin 8 — Apollo",
+    cabin: "Cabin 7 — Apollo",
     title: "Child of the Sun",
     desc: "You are confident, funny, and the life of every room — right up until you get hit with something real. Then you pull out the jokes and the music, because that is how you cope. People gravitate towards you.",
     powers: ["Archery", "Healing with music and medicine", "Prophecy"]
@@ -35,7 +35,7 @@ var PARENTS = {
   hermes: {
     name: "Hermes",
     emoji: "🏃",
-    cabin: "Cabin 10 — Hermes",
+    cabin: "Cabin 11 — Hermes",
     title: "Child of the Trickster",
     desc: "Fast on your feet and faster with your mouth. You are the one who knows everybody's secret and nobody's password. You would rather sneak in through the window than knock — but you would never leave your friends behind.",
     powers: ["Super speed", "Flying with winged sandals", "Opening locks and stealing"]
@@ -43,7 +43,7 @@ var PARENTS = {
   aphasrodite: {
     name: "Aphrodite",
     emoji: "💗",
-    cabin: "Cabin 2 — Aphrodite",
+    cabin: "Cabin 10 — Aphrodite",
     title: "Child of Love",
     desc: "You understand people. You read a room in three seconds and know exactly who needs what. You are warmer than you let on, and far tougher than people assume — you just prefer winning with kindness.",
     powers: ["Charms", "Reading and influencing emotions", "Making people fall in love"]
@@ -51,7 +51,7 @@ var PARENTS = {
   hephaestus: {
     name: "Hephaestus",
     emoji: "🔨",
-    cabin: "Cabin 6b — Hephaestus",
+    cabin: "Cabin 9 — Hephaestus",
     title: "Child of the Forge",
     desc: "You would rather build the thing than talk about the thing. While everybody else is swinging swords, you are inventing a better sword. You are loyal, dependable, and secretly the most powerful person at camp.",
     powers: ["Controlling fire", "Building machines and weapons", "Metalworking"]
@@ -59,7 +59,7 @@ var PARENTS = {
   artemis: {
     name: "Artemis",
     emoji: "🏹",
-    cabin: "Cabin 4 — Artemis",
+    cabin: "Cabin 8 — Artemis",
     title: "Child of the Hunt",
     desc: "Independent to a fault, and better for it. You like the wild, you like your space, and you are not interested in being told what to do. When you do commit to something, it is completely.",
     powers: ["Hunting and tracking", "Controlling wolves", "Surviving in the wild"]
@@ -67,7 +67,7 @@ var PARENTS = {
   demeter: {
     name: "Demeter",
     emoji: "🌾",
-    cabin: "Cabin 11 — Demeter",
+    cabin: "Cabin 4 — Demeter",
     title: "Child of the Harvest",
     desc: "You feel other people's feelings so strongly it can be a problem. You are kind, generous, and occasionally overwhelmed by everything. You are the one who notices when somebody is not okay.",
     powers: ["Growing plants and controlling food", "Healing through nature", "Surviving any environment"]
@@ -83,7 +83,7 @@ var PARENTS = {
   dionysus: {
     name: "Dionysus",
     emoji: "🍇",
-    cabin: "Cabin 7 — Dionysus",
+    cabin: "Cabin 12 — Dionysus",
     title: "Child of the Vine",
     desc: "You make any room better just by being in it. You are fun, chaotic and warm, and you do not take yourself too seriously. Life is short and you intend to enjoy every single quest.",
     powers: ["Making wine and transforming things", "Inspiring madness and joy", "The Camp Half-Blood party cabin"]
